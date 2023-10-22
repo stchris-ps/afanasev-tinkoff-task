@@ -1,0 +1,11 @@
+fastapi==0.104.0
+langchain==0.0.320
+llama-cpp-python==0.2.11
+unstructured
+unstructured[pdf]
+sentence-transformers
+chromadb
+translatepy
+typing
+pydantic
+datetime
