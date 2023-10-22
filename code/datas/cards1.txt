@@ -1,0 +1,26 @@
+"Service","Condition","Tariff"
+"Interest rate","for a balance of up to 300,000 rubles with a purchase amount of over 3,000 rubles per billing period and with the Tinkoff Pro/Premium/Private service connected","5% per annum"
+"Interest rate","in other cases","Not accrued"
+"Cashback for purchases","for selected categories","Up to 15%"
+"Cashback for purchases","on partner offers","Up to 30%"
+"Replenishment","at Tinkoff ATMs","Free"
+"Replenishment","transfer from a card of another bank via Tinkoff","Free"
+"Replenishment","transfer through the fast payment system","Free"
+"Replenishment","by bank transfer using account details","Free"
+"Replenishment","for Tinkoff partners up to 150,000 rubles per billing period","Free"
+"Replenishment","in other cases","2%"
+"Replenishment","at other ATMs when using a MIR card","1%"
+"Service fee","if there is a minimum balance of at least 50,000 rubles per billing period on deposits, savings accounts, card accounts and brokerage accounts","Free"
+"Service fee","if there is a loan issued to the card account","Free"
+"Service fee","in other cases","99 rubles per month"
+“Fees for the service “Notification of transactions””,”with a Tinkoff Mobile subscriber number”,”59 rubles per month”
+“Fees for the service “Notification of transactions””,”in other cases”,”99 rubles per month”
+"Cash withdrawal and quasi-cash","up to RUB 500,000 per billing period at Tinkoff ATMs","Free"
+“Cash withdrawal and quasi-cash”,”up to RUB 100 000 per billing period: at other ATMs with a transaction amount of RUB 3 000 or more and/or third-party services”,”Free”
+"Cash withdrawal and quasi-cash","at any ATMs and/or third-party services from funds received from expired deposits and loans issued to a card account","Free"
+"Cash withdrawal and quasi-cash","in other cases","1.5%, minimum 30 rubles."
+"Transfers through Tinkoff services","intra-bank transfer","Free"
+"Transfers through Tinkoff services","to another bank using account details","Free"
+“Transfers through Tinkoff services”, “to another bank by phone number through the fast payment system”, “2% minimum 90 rubles.”
+"Transfers through Tinkoff services","to another bank by card number up to 20,000 rubles per billing period","Free"
+"Issue of cards, including additional ones, reissue and delivery","in other cases","Free"
