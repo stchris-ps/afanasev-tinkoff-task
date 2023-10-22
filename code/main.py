@@ -77,8 +77,7 @@ embeddings_model = SentenceTransformerEmbeddings(model_name="all-MiniLM-L6-v2")
 
 db = Chroma.from_documents(chunks, embeddings_model)#
 
-print('OK1')
-print('\n')
+
 @app.post("/message")
 def message(user_id: str, message: str):
     memory = redis_backed_dict.get(
@@ -97,7 +96,4 @@ def message(user_id: str, message: str):
         context += frag.page_content
     
     ai_message = conversation.run({"question": question_en+context})
-    return {"message": ai_message["text"]}
-
-print('OK2')
-print('\n')
+    return {"message": translator.translate(ai_message, "Russian").result}
